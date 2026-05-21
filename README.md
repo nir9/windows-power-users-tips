@@ -43,6 +43,8 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Context Menu Button` or `Shift + F10` - Open context menu of focused item
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot), on the NT line supported from Win2k
 - New meaning for `Ctrl + A` - Select all files in current focused explorer window, meaning was expanded in Win2k (see relevant section)
+- `Ctrl` + Dragging a file - Copy the file to the dropped area
+- `Ctrl` + `Shift` + Dragging a file - Choose between "Move", "Copy" or "Shortcut" once the file is dropped
 
 ## Introduced in Windows 2000 (2000)
 - Expanded meaning for `Ctrl + A` - Select all files/text, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
@@ -52,6 +54,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 
 ## Introduced in Windows Vista (2007)
 - `Ctrl + Alt + Tab` - Similar to `Alt + Tab` but keeps "CoolSwitch" open when the keys are let go and enables arrow navigation until `Enter` is pressed on the desired window
+- `Shift` + Context Menu - Add an option to open a command prompt in the current path (meaning has changed in a subsequent version - TODO: add new meaning)
 
 ## Introduced in Windows 7 (2009)
 - `Win + Arrows` - Move the current window according to the arrow direction, `Shift` can be added to move it to a different monitor
