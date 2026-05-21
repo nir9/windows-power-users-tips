@@ -33,11 +33,11 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Ctrl + Alt + Delete` - Open the "Windows NT Security (NT3+)"/"Close Program (Win95+)"/"Windows Security (Win2k,Vista+)"/"Windows Task Manager (WinXP)" dialog (from Vista+ it's fullscreen)
 
 ## Introduced in Windows 95 (1995)
-- `WinKey` or `Ctrl + Esc` - Open the "Start" menu
-- `WinKey + R` - Open the "Run" dialog
-- `WinKey + M` - Minimize the current window, `Shift` can be added to undo the minimize
-- `WinKey + E` - Open Windows Explorer
-- `WinKey + Tab` - Cycle focus through windows in the taskbar, meaning changed starting from Vista
+- `Win` or `Ctrl + Esc` - Open the "Start" menu
+- `Win + R` - Open the "Run" dialog
+- `Win + M` - Minimize the current window, `Shift` can be added to undo the minimize
+- `Win + E` - Open Windows Explorer
+- `Win + Tab` - Cycle focus through windows in the taskbar, meaning changed starting from Vista
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
 - `F2` - Rename
 - `Context Menu Button` or `Shift + F10` - Open context menu of focused item
@@ -47,14 +47,17 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 ## Introduced in Windows 2000 (2000)
 - Expanded meaning for `Ctrl + A` - Select all files/text, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
 
+## Introduced in Windows XP (2001)
+- `Win + L` - Lock the computer
+
 ## Introduced in Windows Vista (2007)
 - `Ctrl + Alt + Tab` - Similar to `Alt + Tab` but keeps "CoolSwitch" open when the keys are let go and enables arrow navigation until `Enter` is pressed on the desired window
 
 ## Introduced in Windows 7 (2009)
-- `WinKey + Arrows` - Move the current window according to the arrow direction, `Shift` can be added to move it to a different monitor
+- `Win + Arrows` - Move the current window according to the arrow direction, `Shift` can be added to move it to a different monitor
 
 ## Introduced in Windows 10 (2015)
-- `Ctrl + Shift + Alt + WinKey + L` - Open LinkedIn, `Ctrl + Shift + Alt + WinKey` is what is virtually pressed when using the "Office" key - supported since Windows 10 1903
+- `Ctrl + Shift + Alt + Win + L` - Open LinkedIn, `Ctrl + Shift + Alt + Win` is what is virtually pressed when using the "Office" key - supported since Windows 10 1903
 
 ### Useful Resources for Emulating Old Windows Versions
 - https://copy.sh/v86
