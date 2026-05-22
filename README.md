@@ -58,6 +58,13 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 
 ## Introduced in Windows 7 (2009)
 - `Win + Arrows` - Move the current window according to the arrow direction, `Shift` can be added to move it to a different monitor
+- `Win + Home` - Restore or minimize all other windows
+- `Win + T` - Cycle through taskbar
+- `Win + Space` - Peek at the desktop
+- `Win + G` - Bring gadgets forward (this was discontinued on the subsequent version)
+- `Win + 1-9` - Click the taskbar entry with the position corresponding to the number (e.g. `Win + 3` clicks the third entry)
+- `Shift + Click (or Middle-click) on taskbar entry` - Open the program (even if there is already a window)
+- `Shift + Right-click on taskbar entry` - Show window operations menu
 
 ## Introduced in Windows 10 (2015)
 - `Ctrl + Shift + Alt + Win + L` - Open LinkedIn, `Ctrl + Shift + Alt + Win` is what is virtually pressed when using the "Office" key - supported since Windows 10 1903
