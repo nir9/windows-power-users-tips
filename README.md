@@ -16,6 +16,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Ctrl + A/B` - List files from Floppy A/B, the meaning of `CTRL + A` has completely changed in Win95 (see relevant section)
 
 ## Introduced in Windows 2.01 (1987)
+- `Alt` or `F10` - Focus the window menu
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
 - `Alt + Esc` - Similar to `Alt + Tab` except the windows "switched-to" on every press and not just on release, also no visual indicator is shown, `Shift` can be added to change the direction
 
