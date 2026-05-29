@@ -78,3 +78,6 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - 86Box
 - QEMU
 - Hyper-V Manager
+
+### Useful Resources for Learning Shortcuts
+- Windows XP "Help and Support Center" (Press `F1` on desktop) - Windows keyboard shortcuts overview
