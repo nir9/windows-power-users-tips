@@ -39,9 +39,10 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Win + M` - Minimize the current window, `Shift` can be added to undo the minimize
 - `Win + E` - Open Windows Explorer
 - `Win + Tab` - Cycle focus through windows in the taskbar, meaning changed starting from Vista
+- `Win + Break` - Display "System Properties"
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k. This shortcut is actually more general and applies to other list components for example when pressed within the "Run" dialog it will open a menu with the history of commands.
 - `F2` - Rename
-- `Context Menu Button` or `Shift + F10` - Open context menu of focused item
+- `Application Key` or `Shift + F10` - Open context menu of focused item
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot), on the NT line supported from Win2k
 - New meaning for `Ctrl + A` - Select all files in current focused explorer window, meaning was expanded in Win2k (see relevant section)
 - `Ctrl` + Dragging a file - Copy the file to the dropped area
