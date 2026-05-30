@@ -19,7 +19,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Alt` or `F10` - Focus the window menu
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
 - `Alt + Esc` - Similar to `Alt + Tab` except the windows "switched-to" on every press and not just on release, also no visual indicator is shown, `Shift` can be added to change the direction
-- `Ctrl` while moving a window with the arrow keys in "move" mode (`Alt + Space` and then `M`) - Make smaller jumps on each arrow key press
+- `Ctrl` while moving/sizing a window with the arrow keys in "move/size" mode (`Alt + Space` and then `M` or `S`) - Make smaller jumps on each arrow key press
 
 ## Introduced in Windows 3.0 (1990)
 - `Ctrl` - Same as `Shift` on previous versions (and `Shift` now selects a range of files instead of individual ones)
